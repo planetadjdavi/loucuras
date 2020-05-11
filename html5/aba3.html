@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>aba3</title>
+
+<style>
+	
+body {background: black; color: red}
+
+</style>
+
+ 
+</head>
+
+
+<body>
+
+<form action="aba4.html" method="post"> 
+
+Qual especialidade clínica gostaria de se consultar?<br>
+
+<!--  Optgroup:  Seleção de grupos  -->
+
+<fieldset>
+
+	<legend> Selecione as opções abaixo:  </legend>
+
+<select>
+	
+	<optgroup label=" Especialidade ">
+	
+	<option value="Cardiologia" selected="" > Cardiologia </option>	
+
+	<option value="Cardiologia" > Oftalmologia </option>
+
+	<option value="Cardiologia" > Nutrição </option>
+	</optgroup>
+<optgroup label="Especialidades 2" >
+	<option value="Cardiologia" > Checkup </option>
+<br>
+	<option value="Cardiologia" > Infectologia </option>
+</optgroup>
+</select>
+
+</fieldset>
+
+<fieldset>
+
+<legend> Selecione o curso: </legend> 
+
+<select>
+	
+
+<optgroup label="Curso" >
+
+	<option value="HTML" > HTML </option>
+	<option value="CSS" > CSS </option>
+	<option value="JAVASCRIPT" > JAVASCRIPT </option>
+
+
+</optgroup>
+
+
+
+
+</select>
+
+</fieldset>
+
+
+<!-- Datalist:  Seleção de listagem interna -->
+
+<fieldset> 
+
+<legend> Selecione seu sexo:  </legend>
+
+<input  name="Novalista" list="listagem">
+
+<datalist id="listagem">
+
+<option value="HOMEM" >
+<option value="MULHER" >
+
+</datalist>
+
+</fieldset>
+
+<fieldset>
+	
+	<legend> Selecione o seu estado civíl: <br> </legend>
+
+<input  name="Civil" list="estado" >
+	<datalist id="estado">
+		<option value="Solteiro">
+		<option value="Casado">
+
+	</datalist>
+
+
+
+</fieldset>
+
+
+<fieldset>
+	Selecione uma opção: <br>
+
+<input  name="teste" list="lista2">
+
+<datalist id="lista2">
+	
+	<option value="opção1" >
+
+	<option value="opção2" >
+
+</datalist>
+
+
+</fieldset>
+
+
+
+
+
+
+
+<input type="submit" name="Enviar">
+
+<br>
+
+<a href="aba4.html">aba4 </a>
+
+</form>
+
+</body>
+</html>

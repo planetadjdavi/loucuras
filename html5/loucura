@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>loucura</title>
+
+
+<style>
+	
+
+body { background: black ; color: white }
+
+</style>
+
+
+</head>
+
+
+<body>
+
+<Hgroup>
+
+<h1> Loucura </h1>
+
+<h2> Loucura </h2>
+
+<h3> Loucura </h3>
+
+</Hgroup>
+
+<div contenteditable="true">
+<p>  
+[dfhj <mark>kjfhkfhdjhfdjfj</mark>  dkifgshdfkshdfklsdhfklsdfhklsdfhewqo8relçf dvnmdsc,.fjheifndm,sf]
+
+[dfhjdkifgshdfkshdfklsdhfklsdfhklsdfhewqo8relçf dvnmdsc,.fjheifndm,sf]
+
+</p>
+
+</div>
+
+<p contenteditable="off">
+
+[dfhjdkifgshdfkshdfklsdhfklsdfhklsdfhewqo8relçf dvnmdsc,.fjheifndm,sf]
+
+[dfhjdkifgshdfkshdfklsdhfklsdfhklsdfhewqo8relçf dvnmdsc,.fjheifndm,sf]
+[dfhjdkifgshdfkshdfklsdhfklsdfhklsdfhewqo8relçf dvnmdsc,.fjheifndm,sf]
+
+[<stronge> dfhjdkifgs </stronge>  hdfkshdfklsdhfklsdfhklsdfhewqo8relçf dvnmdsc,.fjheifndm,sf]
+
+
+</p>
+
+
+<form action="aba1" method="post" >
+	
+<fieldset>
+	
+<legend> loucura</legend>
+
+Loucura: <br>
+<input type="text" name="loucura" required="" placeholder="escreva a loucura" spellcheck="" autocomplete="off">
+<br>
+Senha: <br>
+<input type="password" name="Senha">
+<br>
+Email:<br>
+<br>
+<input type="email" name="mail">
+
+telefone: <br>
+<input type="tel" name="teelfone">
+
+<br>
+URL:<br>
+<input type="url" name="site">
+<br>
+
+mÊs:<br>
+<input type="month" name="mes">
+<br>
+tempo: <br>
+<input type="time" name="tempo">
+<br>
+data: <br>
+<input type="date" name="data">
+<br>
+
+data e hora: <br>
+<input type="data-local" name="data-local">
+
+<br>
+
+selecione algo:<br>
+<br>
+<input type="radio" name="seleção1"> seleção1
+<br>
+
+<input type="radio" name="seleção2"> seleção 2
+
+<br>
+
+escolha algo : <br>
+
+<input type="checkbox" name="caixa1"> caixa1
+
+<br>
+<input type="checkbox" name="caixa2"> caixa2
+
+<br>
+range: <br>
+
+<input type="range" name="ranger">
+
+<br>
+
+selecione a cor: <br>
+<input type="color" name="cor">
+<br>
+
+<select>
+	
+<optgroup label="valores da loucura" >
+	
+	<option value="valor1"> valor 1</option>
+
+	<option value="valor3"> valor 2</option>
+
+</optgroup>
+
+</select>
+
+selecione nova loucura: <br>
+<input  name="novalocura" list="locuuuuu">
+
+<datalist id="locuuuuu">
+	
+
+<option value="teste1">
+
+<option value="teste1">
+
+<option valeu="teste3">
+
+</datalist>
+
+<img src="1.jpg" height="100" width="100" >
+
+
+<video controls="">
+	
+
+<source src="WhatsApp Video 2020-04-06 at 09.16.35.mp4" type="video/mp4">
+
+
+
+</video>
+
+<br><br>
+
+<embed src="">
+
+
+
+	<object width="100" height="100" data="1-convertido.pdf" tabindex="1" accesskey="h"> </object>
+
+
+<details>
+
+	<summary> aba louca oculta </summary>
+
+<ol> lista locura ordenada </ol>
+
+<ol> lista locura ordenada 2 </ol>
+</details>
+
+
+
+</fieldset>
+
+
+
+
+
+
+
+</form>
+
+
+
+
+</body>
+</html>
